@@ -5,5 +5,5 @@ int main(){
     int a=2,b=21, mul;
     mul = a*b;
     cout<<mul;
-    return 0;
+
 }
